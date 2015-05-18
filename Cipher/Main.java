@@ -16,13 +16,20 @@ package Cipher;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("~ We'll go down in history ~");
+        //System.out.println("~ We'll go down in history ~");
         
         
         
         // Uncomment these lines only if you have a working startProgram() that you would like to test
-        
         Control cipher = new Control();
         cipher.startProgram();
     }
 }
+
+
+
+
+
+
+
+
